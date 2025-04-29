@@ -1,0 +1,32 @@
+name: Auto Archive Stickers
+# Script by DeepSeek
+
+on:
+  push:
+    branches:
+      - main  # 触发分支，按需修改
+
+jobs:
+  package:
+    runs-on: ubuntu-latest
+    steps:
+      # 步骤1：检出代码
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      # 步骤2：安装ZIP工具
+      - name: Install ZIP Package
+        run: sudo apt-get update && sudo apt-get install zip -y
+
+      # 步骤3：创建ZIP文件（替换your_folder为实际路径）
+      - name: Create ZIP Archive
+        run: |
+          zip -r Create_Mod_Meme_Stickers_from_GHActions.zip './Pics 成品/'
+          echo "ZIP generated → $(ls -lh Create_Mod_Meme_Stickers_from_GHActions.zip)"
+
+      # 步骤4：上传为工作流产物
+      - name: Upload Artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: project_files_package
+          path: Create_Mod_Meme_Stickers_from_GHActions.zip
