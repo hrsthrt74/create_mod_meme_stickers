@@ -21,8 +21,8 @@ jobs:
       # 步骤3：创建ZIP文件（替换your_folder为实际路径）
       - name: Create ZIP Archive
         run: |
-          zip -r Create_Mod_Meme_Stickers_from_GHActions.zip './Pics 成品/'
-          echo "ZIP generated → $(ls -lh Create_Mod_Meme_Stickers_from_GHActions.zip)"
+          cd "Pics 成品/"
+          zip -j ../Create_Mod_Meme_Stickers_from_GHActions.zip *
 
       # 步骤4：上传为工作流产物
       - name: Upload Artifact
