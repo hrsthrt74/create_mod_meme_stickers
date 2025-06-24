@@ -1,4 +1,4 @@
-[![pEZQ6H0.png](https://s21.ax1x.com/2025/02/01/pEZQ6H0.png)](https://imgse.com/i/pEZQ6H0)
+![Banner 2：1](https://github.com/user-attachments/assets/acc0cafe-4bfc-4c06-b0ed-d34187c7243e)
 
 ###### Note: README is now only available in Chinese. English ver coming s∞n (PR is welcomed)
 
@@ -21,11 +21,11 @@
 
 - **可以做表情包吗？**
   
-  可以，但我个人不是很建议，因为这些图是专为实物贴纸设计的，做成表情包的话需要一些修改
-  
+  可以，虽然本项目本身并不是为表情包设计的
+
 - **可以二创吗？**
   
-  可以。二创时建议保留原作者信息 :)（不过这不是必须的）
+  可以。二创时请保留原作者及原项目信息 :)
 
 - **可以加 XX 贴纸吗？/ 我有个想法！**
 
