@@ -1,4 +1,15 @@
-![alt text](头图.png)
+![](头图.png)
+
+
+<table>
+  <tr>
+    <td><a href="#update-link"><img src="assets_doc/Update.svg" alt="Update" height="40"></a></td>
+    <td><a href="#overview-link"><img src="assets_doc/Overview.svg" alt="Overview" height="40"></a></td>
+    <td><a href="#download-link"><img src="assets_doc/Download.svg" alt="Download" height="40"></a></td>
+    <td><a href="#donate-link"><img src="assets_doc/Donate.svg" alt="Donate" height="40"></a></td>
+  </tr>
+</table>
+
 
 ###### Note: README is now only available in Chinese. English ver coming s∞n (PR is welcomed)
 
