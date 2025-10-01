@@ -1,14 +1,20 @@
 ![](头图.png)
 
 
-<table>
-  <tr>
-    <td><a href="#update-link"><img src="assets_doc/Update.svg" alt="Update" height="40"></a></td>
-    <td><a href="#overview-link"><img src="assets_doc/Overview.svg" alt="Overview" height="40"></a></td>
-    <td><a href="#download-link"><img src="assets_doc/Download.svg" alt="Download" height="40"></a></td>
-    <td><a href="#donate-link"><img src="assets_doc/Donate.svg" alt="Donate" height="40"></a></td>
-  </tr>
-</table>
+<div style="display: flex; gap: 2px">
+  <a href="V2_UPDATE.md" style="display: inline-block;">
+    <img src="assets_doc/Update.svg" alt="Update" height="40" />
+  </a>
+  <a href="STICKERS.md" style="display: inline-block;">
+    <img src="assets_doc/Overview.svg" alt="Overview" height="40" />
+  </a>
+  <a href="https://github.com/hrsthrt74/create_mod_meme_stickers/releases" style="display: inline-block;">
+    <img src="assets_doc/Download.svg" alt="Download" height="40" />
+  </a>
+  <a href="https://afdian.com/a/hrsthrt74" style="display: inline-block;">
+    <img src="assets_doc/Donate.svg" alt="Donate" height="40" />
+  </a>
+</div>
 
 
 ###### Note: README is now only available in Chinese. English ver coming s∞n (PR is welcomed)
@@ -17,10 +23,6 @@
 > Ver. 2.0 现已发布，新增了 22 张贴纸，欢迎下载~
 
 一套以 Minecraft 模组「[机械动力](https://github.com/Creators-of-Create/Create)」为主题的 meme 贴纸。灵感来自社区，并融合了部分流行 meme 元素。希望它能给你带来一些快乐 :)
-
-## 贴纸预览
-[传送门](STICKERS.md)
-
 
 ## 注意事项
 - **本贴纸使用了不可免费商用的字体（锐字锐线怒放大黑简），禁止商用！！**
