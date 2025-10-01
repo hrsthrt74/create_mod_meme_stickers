@@ -1,14 +1,24 @@
-![Banner 2：1](https://github.com/user-attachments/assets/acc0cafe-4bfc-4c06-b0ed-d34187c7243e)
+![alt text](头图.png)
 
 ###### Note: README is now only available in Chinese. English ver coming s∞n (PR is welcomed)
 
+> [!TIP]
+> Ver. 2.0 现已发布，新增了 22 张贴纸，欢迎下载~
+
 一套以 Minecraft 模组「[机械动力](https://github.com/Creators-of-Create/Create)」为主题的 meme 贴纸。灵感来自社区，并融合了部分流行 meme 元素。希望它能给你带来一些快乐 :)
 
+## 贴纸预览
+[传送门](STICKERS.md)
+
+
 ## 注意事项
-- **本贴纸使用了不可免费商用的字体（锐字锐线怒放大黑简），禁止商用！！** 此外，本贴纸用到的「Minecraft Ten」字体，目前作者并不明确其是否可以免费商用，因此还是禁止贴纸商用！
+- **本贴纸使用了不可免费商用的字体（锐字锐线怒放大黑简），禁止商用！！**
+  
+  此外，本贴纸用到的「Minecraft Ten」字体，目前作者并不明确其是否可以免费商用，因此还是禁止贴纸商用！
 - 本贴纸为饭制（Fanmade），其表达的内容 / 观点均与 Microsoft、Mojang Studios、Creators of Create 无关
 - 本项目使用了 [Creators-of-Create/Create](https://github.com/Creators-of-Create/Create) 的部分资产
-- 本项目部分参考了 [misbrands](https://github.com/mkrl/misbrands) 项目
+- 本项目参考了 [misbrands](https://github.com/mkrl/misbrands) 项目
+- 本项目参考了 [llm-things](https://github.com/fenxer/llm-things) 项目
 - 本项目使用了 [Twimoji](https://github.com/twitter/twemoji)
 - 本项目使用了 [Thirst was Taken](https://github.com/ghen-git/Thirst-Mod?tab=License-1-ov-file#readme) 的部分资产（`thirst_icons.png`）
 
