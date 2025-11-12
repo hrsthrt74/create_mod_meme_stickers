@@ -11,6 +11,9 @@
   <a href="https://github.com/hrsthrt74/create_mod_meme_stickers/releases/download/2.0/MEME.Ver.2.0.by.hrsthrt74.zip" style="display: inline-block;">
     <img src="assets_doc/Download.svg" alt="Download" height="40" />
   </a>
+  <a href="https://github.com/hrsthrt74/create_mod_meme_stickers/actions" style="display: inline-block;">
+    <img src="assets_doc/Actions.svg" alt="Actions Build" height="40" />
+  </a>
   <a href="https://afdian.com/a/hrsthrt74" style="display: inline-block;">
     <img src="assets_doc/Donate.svg" alt="Donate" height="40" />
   </a>
